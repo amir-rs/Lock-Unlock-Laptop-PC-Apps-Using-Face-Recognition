@@ -32,7 +32,7 @@ FaceLock is a Windows desktop application built with Python that enables users t
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 
 ## ⚙️ Installation
