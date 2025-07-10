@@ -1,8 +1,4 @@
-Here is a `README.md` file in English, tailored for your project:
 
----
-
-````markdown
 # 🔒 FaceLock: Face Recognition-Based Application Locker
 
 FaceLock is a Windows desktop application built with Python that enables users to **lock and unlock selected programs** using **real-time face recognition**. This powerful tool is especially useful for securing sensitive applications from unauthorized access on shared computers.
