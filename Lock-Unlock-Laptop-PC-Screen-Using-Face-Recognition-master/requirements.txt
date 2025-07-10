@@ -1,0 +1,7 @@
+customtkinter
+opencv-python
+numpy
+torch
+facenet-pytorch
+ultralytics
+pillow 
