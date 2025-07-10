@@ -32,7 +32,8 @@ FaceLock is a Windows desktop application built with Python that enables users t
 
 ## 📸 Screenshots
 
-![App Screenshot](Screenshot%202025-07-09%20173537.png)
+![App Screenshot](Lock-Unlock-Laptop-PC-Apps-Using-Face-Recognition
+/Screenshot%202025-07-09%20173537.png)
 
 ## ⚙️ Installation
 
@@ -40,7 +41,7 @@ FaceLock is a Windows desktop application built with Python that enables users t
    ```bash
    git clone https://github.com/yourusername/FaceLock.git
    cd FaceLock
-````
+
 
 2. Install dependencies:
 
@@ -76,12 +77,3 @@ FaceLock/
 
 This project is licensed under the MIT License.
 
----
-
-Made with ❤️ for secure desktops.
-
-```
-
----
-
-```
